@@ -1,0 +1,7 @@
+[0m16:20:26.045982 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000014C15EC5710>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000014C182F4D10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000014C18668D90>]}
+
+
+============================== 16:20:26.052671 | fbb37905-55c4-4af2-9318-cac7b5239ba8 ==============================
+[0m16:20:26.052671 [info ] [MainThread]: Running with dbt=1.5.2
+[0m16:20:26.052671 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'logs', 'profiles_dir': 'C:\\Users\\Tal\\.dbt', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'target_path': 'None', 'send_anonymous_usage_stats': 'True'}
+[0m16:20:26.059746 [debug] [MainThread]: Starter project path: C:\Users\Tal\AppData\Local\Programs\Python\Python311\Lib\site-packages\dbt\include\starter_project
